@@ -1,4 +1,4 @@
-### Exploring & learning new things 😁
+### Exploring & learning new things !
 
 **DevOps & MLOps Engineer · Paris**
 Regulated environments · AI Act / NIS2 · Cloud · IaC · CI/CD
